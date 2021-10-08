@@ -16,6 +16,6 @@ public class DataHelper {
     }
 
     public static AuthInfo getOtherAuthInfo() {
-        return new AuthInfo("petya", "123qwerty2");
+        return new AuthInfo("vasya", "123qwerty2");
     }
 }
